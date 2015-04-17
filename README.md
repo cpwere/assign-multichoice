@@ -5,6 +5,7 @@ Instructions on how to run the java application for the A* search algorithm path
 ===========================================================================================
 
 Note: This program was created using Eclipse IDE , this project was purely done as an assigment task. 
+To run this program you can import the project as as Eclipse project into your workspace.  
 
 1. The project name is "routefinder" - this is the root context folder containing all the source and related files (txt, .properties, etc)
 
@@ -17,7 +18,7 @@ Note: This program was created using Eclipse IDE , this project was purely done 
 5. The result file 'large_map.txt' will be generated and saved in the root context folder of the project. 
 
 6. Running the program: 
-
+  - import the project folder  "routefinder" and all of is contents into your IDE (pref eclipseIDE ) 
   - Locate the run the java class RouteFinderApp.java , run the main method 
   - result file 'large_map.txt' will be generated 
   - output can also be verified by uncommenting the line (below) in 'RouteFinderApp.java'  file of code to also print to System.out  
